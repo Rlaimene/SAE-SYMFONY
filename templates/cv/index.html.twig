@@ -47,7 +47,44 @@ C499.8,112.4,388.1,0.8,250.4,0.8z M383.8,326.3c-62,0-101.4-14.1-117.6-46.3c-17.1
 c-22.4,3-38.4,9.2-47.8,18.3c-11.2,10.9-13.6,26.7-16.3,45c-3.1,20.8-6.6,44.4-25.3,62.4c-19.8,19.1-51.6,26.9-100.2,24.6l1.8-39.7      c35.9,1.6,59.7-2.9,70.8-13.6c8.9-8.6,11.1-22.9,13.5-39.6c6.3-42,14.8-99.4,141.4-99.4h41L333,166c-12.6,16-45.4,68.2-31.2,96.2    c9.2,18.3,41.5,25.6,91.2,24.2l1.1,39.8C390.5,326.2,387.1,326.3,383.8,326.3z" />
 </g>
 </svg>
-<h1> Voici mon CV </h1>
+
+<div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <h2 class="text-center mb-4">Formulaire pour télécharger le CV !</h2>
+
+                {{ form_start(form, {'attr': {'class': 'form'}}) }}
+
+                <div class="form-group">
+                    {{ form_label(form.nom) }}
+                    {{ form_widget(form.nom, {'attr': {'class': 'form-control'}}) }}
+                </div>
+
+                <div class="form-group">
+                    {{ form_label(form.prenom) }}
+                    {{ form_widget(form.prenom, {'attr': {'class': 'form-control'}}) }}
+                </div>
+
+                <div class="form-group">
+                    {{ form_label(form.email) }}
+                    {{ form_widget(form.email, {'attr': {'class': 'form-control'}}) }}
+                </div>
+
+                <div class="form-group">
+                    {{ form_label(form.message) }}
+                    {{ form_widget(form.message, {'attr': {'class': 'form-control'}}) }}
+                </div>
+
+                <div class="text-center">
+                    <input type="submit" class="btn btn-primary" value="Envoyer">  
+                    <a href="cv2.png" download="cv2.png"class="btn btn-primary">Envoyer</a>
+                    
+                </div>
+
+                {{ form_end(form) }}
+            </div>
+        </div>
+    </div>
 </div>
 <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
 
@@ -97,7 +134,7 @@ c-22.4,3-38.4,9.2-47.8,18.3c-11.2,10.9-13.6,26.7-16.3,45c-3.1,20.8-6.6,44.4-25.3
        </div>
        <div class="resume_item resume_skills">
          <div class="title">
-           <p class="bold">skill's</p>
+           <p class="bold">Compétences</p>
          </div>
          <ul>
            <li>
@@ -201,28 +238,28 @@ Organisé et rigoureux, je mettrai ma polyvalence et mon écoute au service de l
     </div>
     <div class="resume_item resume_work">
         <div class="title">
-           <p class="bold">Work Experience</p>
+           <p class="bold">Expérience professionelle</p>
          </div>
         <ul>
             <li>
                 <div class="date">2013 - 2015</div> 
                 <div class="info">
-                     <p class="semi-bold">Lorem ipsum dolor sit amet.</p> 
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
+                     <p class="semi-bold"> Vendange | maraîcher </p> 
+                  <p>2021</p>
                 </div>
             </li>
             <li>
               <div class="date">2015 - 2017</div>
               <div class="info">
-                     <p class="semi-bold">Lorem ipsum dolor sit amet.</p> 
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
+                     <p class="semi-bold">stage en entreprise | Ikea </p> 
+                  <p>2019</p>
                 </div>
             </li>
             <li>
               <div class="date">2017 - Present</div>
               <div class="info">
-                     <p class="semi-bold">Lorem ipsum dolor sit amet.</p> 
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
+                     <p class="semi-bold">agent polyvalent | massimo dutti </p> 
+                  <p>2023</p>
                 </div>
             </li>
         </ul>
@@ -233,17 +270,17 @@ Organisé et rigoureux, je mettrai ma polyvalence et mon écoute au service de l
          </div>
       <ul>
             <li>
-                <div class="date">2010 - 2013</div> 
+                <div class="date">2020 - 2023</div> 
                 <div class="info">
-                     <p class="semi-bold">Web Designing (Texas University)</p> 
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
+                     <p class="semi-bold">Lyon, Jean-Philipe Rameau</p> 
+                  <p>Obtention du Brevet </p>
                 </div>
             </li>
             <li>
               <div class="date">2000 - 2010</div>
               <div class="info">
-                     <p class="semi-bold">Texas International School</p> 
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
+                     <p class="semi-bold">Lyon, Lycée Charles Mérieux </p> 
+                  <p>Obtention du baccalauréat </p>
                 </div>
             </li>
         </ul>
@@ -286,6 +323,6 @@ viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
   <p>GROUPE A2 | BUT RT1 </p>
 </div>
 <!--Content ends-->
-<a href="cv.png" download="cv.png"class="button">Download</a>
+<a href="cv2.png" download="cv.png"class="button">Download</a>
 
 {% endblock %}

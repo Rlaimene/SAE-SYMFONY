@@ -15,7 +15,7 @@ return [
         '/_profiler/xdebug' => [[['_route' => '_profiler_xdebug', '_controller' => 'web_profiler.controller.profiler::xdebugAction'], null, null, null, false, false, null]],
         '/_profiler/open' => [[['_route' => '_profiler_open_file', '_controller' => 'web_profiler.controller.profiler::openAction'], null, null, null, false, false, null]],
         '/home' => [[['_route' => 'app_home', '_controller' => 'App\\Controller\\HomeController::index'], null, null, null, false, false, null]],
-        '/cv' => [[['_route' => 'app_cv', '_controller' => 'App\\Controller\\HomeController::cv'], null, null, null, false, false, null]],
+        '/cv' => [[['_route' => 'cv', '_controller' => 'App\\Controller\\HomeController::cv'], null, null, null, false, false, null]],
         '/plus' => [[['_route' => 'app_plus', '_controller' => 'App\\Controller\\HomeController::plus'], null, null, null, false, false, null]],
         '/portfolio' => [[['_route' => 'app_portfolio', '_controller' => 'App\\Controller\\HomeController::portfolio'], null, null, null, false, false, null]],
     ],

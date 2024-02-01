@@ -131,45 +131,209 @@ c-22.4,3-38.4,9.2-47.8,18.3c-11.2,10.9-13.6,26.7-16.3,45c-3.1,20.8-6.6,44.4-25.3
 </g>
 </svg>
 <h1>Mes compétences</h1>
+
 </div>
-<div class=\"container\">
-  <div class=\"card card0\">
-    <div class=\"border\">
-      <h2>Al Pacino</h2>
-      <div class=\"icons\">
-        <i class=\"fa fa-codepen\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-instagram\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-dribbble\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-facebook\" aria-hidden=\"true\"></i>
-      </div>
-    </div>
+<div id=\"watch\">
+  <div class=\"frame-face\"></div>
+  <ul class=\"minute-marks\">
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+  </ul>
+  <div class=\"digital-wrap\">
+    <ul class=\"digit-hours\">
+      <li>23</li>
+      <li>00</li><li>01</li><li>02</li><li>03</li><li>04</li><li>05</li>
+      <li>06</li><li>07</li><li>08</li><li>09</li><li>10</li><li>11</li>
+      <li>12</li><li>13</li><li>14</li><li>15</li><li>16</li><li>17</li>
+      <li>18</li><li>19</li><li>20</li><li>21</li><li>22</li>
+    </ul>
+    <ul class=\"digit-minutes\">
+      <li>10</li><li>11</li>
+      <li>12</li><li>13</li><li>14</li><li>15</li><li>16</li><li>17</li>
+      <li>18</li><li>19</li><li>20</li><li>21</li><li>22</li><li>23</li>
+      <li>24</li><li>25</li><li>26</li><li>27</li><li>28</li><li>29</li>
+      <li>30</li><li>31</li><li>32</li><li>33</li><li>34</li><li>35</li>
+      <li>36</li><li>37</li><li>38</li><li>39</li><li>40</li><li>41</li>
+      <li>42</li><li>43</li><li>44</li><li>45</li><li>46</li><li>47</li>
+      <li>48</li><li>49</li><li>50</li><li>51</li><li>52</li><li>53</li>
+      <li>54</li><li>55</li><li>56</li><li>57</li><li>58</li><li>59</li>
+      <li>00</li><li>01</li><li>02</li><li>03</li><li>04</li><li>05</li>
+      <li>06</li><li>07</li><li>08</li><li>09</li>
+    </ul>
+    <ul class=\"digit-seconds\">
+      <li>20</li><li>21</li><li>22</li><li>23</li>
+      <li>24</li><li>25</li><li>26</li><li>27</li><li>28</li><li>29</li>
+      <li>30</li><li>31</li><li>32</li><li>33</li><li>34</li><li>35</li>
+      <li>36</li><li>37</li><li>38</li><li>39</li><li>40</li><li>41</li>
+      <li>42</li><li>43</li><li>44</li><li>45</li><li>46</li><li>47</li>
+      <li>48</li><li>49</li><li>50</li><li>51</li><li>52</li><li>53</li>
+      <li>54</li><li>55</li><li>56</li><li>57</li><li>58</li><li>59</li>
+      <li>00</li><li>01</li><li>02</li><li>03</li><li>04</li><li>05</li>
+      <li>06</li><li>07</li><li>08</li><li>09</li><li>10</li><li>11</li>
+      <li>12</li><li>13</li><li>14</li><li>15</li><li>16</li><li>17</li>
+      <li>18</li><li>19</li>
+    </ul>
   </div>
-  <div class=\"card card1\">
-    <div class=\"border\">
-      <h2>Ben Stiller</h2>
-      <div class=\"icons\">
-        <i class=\"fa fa-codepen\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-instagram\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-dribbble\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-facebook\" aria-hidden=\"true\"></i>
-      </div>
-    </div>
-  </div>
-  <div class=\"card card2\">
-    <div class=\"border\">
-      <h2>Patrick Stewart</h2>
-      <div class=\"icons\">
-        <i class=\"fa fa-codepen\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-instagram\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-dribbble\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-facebook\" aria-hidden=\"true\"></i>
-      </div>
-    </div>
-  </div>
+  <ul class=\"digits\">
+    <li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li>
+    <li>7</li><li>8</li><li>9</li><li>10</li><li>11</li><li>12</li>
+  </ul>
+  <div class=\"hours-hand\"></div>
+  <div class=\"minutes-hand\"></div>
+  <div class=\"seconds-hand\"></div>
 </div>
+    <h2 class=\"text-center\"></h2>
+
+    <!-- Partie 1: Assister l’administrateur du réseau -->
+    <div class=\"container d-flex align-items-center justify-content-center\">
+        <div class=\"mb-4 text-center\">
+            <h4>Assister l’administrateur du réseau</h4>
+            <div class=\"progress-container\">
+            </div>
+            <p class=\"mt-2\"><strong>Apprentissages critiques :</strong></p>
+            <!-- Barres de progression pour chaque apprentissage critique -->
+            <ul class=\"text-left\">
+                <li>
+                    <span>Maîtriser les lois fondamentales de l’électricité afin d’intervenir sur des équipements de réseaux et télécommunications (habilitation électrique)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 75%; height: 15px;\" aria-valuenow=\"75\" aria-valuemin=\"0\" aria-valuemax=\"100\">75%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Comprendre les principes et standards du codage de l’information</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Configurer les fonctions de base du réseau local (Ethernet, IPv4, intro IPv6, commutation, VLANs, routage statique)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 75%; height: 15px;\" aria-valuenow=\"75\" aria-valuemin=\"0\" aria-valuemax=\"100\">75%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Maîtriser les rôles et les principes fondamentaux des systèmes d’exploitation afin d’interagir avec ceux-ci pour la configuration et
+administration des réseaux et services fournis (DHCP, DNS, ...)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 90%; height: 15px;\" aria-valuenow=\"90\" aria-valuemin=\"0\" aria-valuemax=\"100\">90%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Savoir identifier les dysfonctionnements du réseau local</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 75%; height: 15px;\" aria-valuenow=\"75\" aria-valuemin=\"0\" aria-valuemax=\"100\">75%</div>
+                    </div>
+                </li>
+                <li>
+                    <span> Installer un poste client (et le sécuriser: antivirus, parefeu, comptes, ...)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 90%; height: 15px;\" aria-valuenow=\"90\" aria-valuemin=\"0\" aria-valuemax=\"100\">90%</div>
+                    </div>
+                </li>
+                <!-- Ajoutez d'autres barres de progression au besoin -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- Partie 2: Découvrir les transmissions et la ToIP -->
+    <div class=\"container d-flex align-items-center justify-content-center\">
+        <div class=\"mb-4 text-center\">
+            <h4>Découvrir les transmissions et la ToIP</h4>
+            <div class=\"progress-container\">
+            </div>
+            <p class=\"mt-2\"><strong>Apprentissages critiques :</strong></p>
+            <!-- Barres de progression pour chaque apprentissage critique -->
+            <ul class=\"text-left\">
+                <li>
+                    <span>Mesurer et analyser les signaux (audio et vidéo, ordres de grandeurs, comprendre la dualité temps/fréquence et utiliser des équipements d’analyse spectrale, avec projets autour de la chaîne d’acquisition/traitement)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 0%; height: 15px;\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\">0%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Caractériser des systèmes de transmissions élémentaires et découvrir la modélisation mathématique de leur fonctionnement</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 0%; height: 15px;\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\">0%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Déployer des supports de transmission (traitement au choix de la propagation, câblage LAN, fibre optique, ou une introduction à l’IoT)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Connecter les systèmes de ToIP (s’interprétant ici comme la possibilité de se connecter au réseau téléphonique)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 0%; height: 15px;\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\">0%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Communiquer avec un client ou un collaborateur</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 75%; height: 15px;\" aria-valuenow=\"75\" aria-valuemin=\"0\" aria-valuemax=\"100\">75%</div>
+                    </div>
+                </li>
+                <!-- Ajoutez d'autres barres de progression au besoin -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- Partie 3: S’intégrer dans un service informatique -->
+    <div class=\"container d-flex align-items-center justify-content-center\">
+        <div class=\"mb-4 text-center\">
+            <h4>S’intégrer dans un service informatique</h4>
+            <div class=\"progress-container\">
+            </div>
+            <p class=\"mt-2\"><strong>Apprentissages critiques :</strong></p>
+            <!-- Barres de progression pour chaque apprentissage critique -->
+            <ul class=\"text-left\">
+                <li>
+                    <span>Utiliser un système informatique et ses outils (intro système, fichiers, CLI, zips, outils collaboratifs sur Internet, hygiène informatique. . . : référentiel PIX et CyberEdu)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Lire, exécuter, corriger et modifier un programme (programmes simples type scripts, algorithme inclus)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Traduire un algorithme, dans un langage et pour un environnement donné (peut inclure plusieurs, y compris objet)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Connaître l’architecture et les technologies d’un site Web (Langages et outils : HTML, CSS, CMS, JS, responsive)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Choisir les mécanismes de gestion de données adaptés au développement de l’outil (BDD, SQL, LDAP, JSON, sérialisation, conception de BDD simple. . .)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 50%; height: 15px;\" aria-valuenow=\"50\" aria-valuemin=\"0\" aria-valuemax=\"100\">50%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>S’intégrer dans un environnement propice au développement et au travail collaboratif (intro méthodes agiles)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 70%; height: 15px;\" aria-valuenow=\"70\" aria-valuemin=\"0\" aria-valuemax=\"100\">70%</div>
+                    </div>
+                </li>
+                <!-- Ajoutez d'autres barres de progression au besoin -->
+            </ul>
+        </div>
+    </div>
 
 <!--Waves Container-->
 <div>
@@ -283,45 +447,209 @@ c-22.4,3-38.4,9.2-47.8,18.3c-11.2,10.9-13.6,26.7-16.3,45c-3.1,20.8-6.6,44.4-25.3
 </g>
 </svg>
 <h1>Mes compétences</h1>
+
 </div>
-<div class=\"container\">
-  <div class=\"card card0\">
-    <div class=\"border\">
-      <h2>Al Pacino</h2>
-      <div class=\"icons\">
-        <i class=\"fa fa-codepen\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-instagram\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-dribbble\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-facebook\" aria-hidden=\"true\"></i>
-      </div>
-    </div>
+<div id=\"watch\">
+  <div class=\"frame-face\"></div>
+  <ul class=\"minute-marks\">
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+    <li></li><li></li><li></li><li></li><li></li><li></li>
+  </ul>
+  <div class=\"digital-wrap\">
+    <ul class=\"digit-hours\">
+      <li>23</li>
+      <li>00</li><li>01</li><li>02</li><li>03</li><li>04</li><li>05</li>
+      <li>06</li><li>07</li><li>08</li><li>09</li><li>10</li><li>11</li>
+      <li>12</li><li>13</li><li>14</li><li>15</li><li>16</li><li>17</li>
+      <li>18</li><li>19</li><li>20</li><li>21</li><li>22</li>
+    </ul>
+    <ul class=\"digit-minutes\">
+      <li>10</li><li>11</li>
+      <li>12</li><li>13</li><li>14</li><li>15</li><li>16</li><li>17</li>
+      <li>18</li><li>19</li><li>20</li><li>21</li><li>22</li><li>23</li>
+      <li>24</li><li>25</li><li>26</li><li>27</li><li>28</li><li>29</li>
+      <li>30</li><li>31</li><li>32</li><li>33</li><li>34</li><li>35</li>
+      <li>36</li><li>37</li><li>38</li><li>39</li><li>40</li><li>41</li>
+      <li>42</li><li>43</li><li>44</li><li>45</li><li>46</li><li>47</li>
+      <li>48</li><li>49</li><li>50</li><li>51</li><li>52</li><li>53</li>
+      <li>54</li><li>55</li><li>56</li><li>57</li><li>58</li><li>59</li>
+      <li>00</li><li>01</li><li>02</li><li>03</li><li>04</li><li>05</li>
+      <li>06</li><li>07</li><li>08</li><li>09</li>
+    </ul>
+    <ul class=\"digit-seconds\">
+      <li>20</li><li>21</li><li>22</li><li>23</li>
+      <li>24</li><li>25</li><li>26</li><li>27</li><li>28</li><li>29</li>
+      <li>30</li><li>31</li><li>32</li><li>33</li><li>34</li><li>35</li>
+      <li>36</li><li>37</li><li>38</li><li>39</li><li>40</li><li>41</li>
+      <li>42</li><li>43</li><li>44</li><li>45</li><li>46</li><li>47</li>
+      <li>48</li><li>49</li><li>50</li><li>51</li><li>52</li><li>53</li>
+      <li>54</li><li>55</li><li>56</li><li>57</li><li>58</li><li>59</li>
+      <li>00</li><li>01</li><li>02</li><li>03</li><li>04</li><li>05</li>
+      <li>06</li><li>07</li><li>08</li><li>09</li><li>10</li><li>11</li>
+      <li>12</li><li>13</li><li>14</li><li>15</li><li>16</li><li>17</li>
+      <li>18</li><li>19</li>
+    </ul>
   </div>
-  <div class=\"card card1\">
-    <div class=\"border\">
-      <h2>Ben Stiller</h2>
-      <div class=\"icons\">
-        <i class=\"fa fa-codepen\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-instagram\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-dribbble\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-facebook\" aria-hidden=\"true\"></i>
-      </div>
-    </div>
-  </div>
-  <div class=\"card card2\">
-    <div class=\"border\">
-      <h2>Patrick Stewart</h2>
-      <div class=\"icons\">
-        <i class=\"fa fa-codepen\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-instagram\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-dribbble\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>
-        <i class=\"fa fa-facebook\" aria-hidden=\"true\"></i>
-      </div>
-    </div>
-  </div>
+  <ul class=\"digits\">
+    <li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li>
+    <li>7</li><li>8</li><li>9</li><li>10</li><li>11</li><li>12</li>
+  </ul>
+  <div class=\"hours-hand\"></div>
+  <div class=\"minutes-hand\"></div>
+  <div class=\"seconds-hand\"></div>
 </div>
+    <h2 class=\"text-center\"></h2>
+
+    <!-- Partie 1: Assister l’administrateur du réseau -->
+    <div class=\"container d-flex align-items-center justify-content-center\">
+        <div class=\"mb-4 text-center\">
+            <h4>Assister l’administrateur du réseau</h4>
+            <div class=\"progress-container\">
+            </div>
+            <p class=\"mt-2\"><strong>Apprentissages critiques :</strong></p>
+            <!-- Barres de progression pour chaque apprentissage critique -->
+            <ul class=\"text-left\">
+                <li>
+                    <span>Maîtriser les lois fondamentales de l’électricité afin d’intervenir sur des équipements de réseaux et télécommunications (habilitation électrique)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 75%; height: 15px;\" aria-valuenow=\"75\" aria-valuemin=\"0\" aria-valuemax=\"100\">75%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Comprendre les principes et standards du codage de l’information</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Configurer les fonctions de base du réseau local (Ethernet, IPv4, intro IPv6, commutation, VLANs, routage statique)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 75%; height: 15px;\" aria-valuenow=\"75\" aria-valuemin=\"0\" aria-valuemax=\"100\">75%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Maîtriser les rôles et les principes fondamentaux des systèmes d’exploitation afin d’interagir avec ceux-ci pour la configuration et
+administration des réseaux et services fournis (DHCP, DNS, ...)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 90%; height: 15px;\" aria-valuenow=\"90\" aria-valuemin=\"0\" aria-valuemax=\"100\">90%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Savoir identifier les dysfonctionnements du réseau local</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 75%; height: 15px;\" aria-valuenow=\"75\" aria-valuemin=\"0\" aria-valuemax=\"100\">75%</div>
+                    </div>
+                </li>
+                <li>
+                    <span> Installer un poste client (et le sécuriser: antivirus, parefeu, comptes, ...)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 90%; height: 15px;\" aria-valuenow=\"90\" aria-valuemin=\"0\" aria-valuemax=\"100\">90%</div>
+                    </div>
+                </li>
+                <!-- Ajoutez d'autres barres de progression au besoin -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- Partie 2: Découvrir les transmissions et la ToIP -->
+    <div class=\"container d-flex align-items-center justify-content-center\">
+        <div class=\"mb-4 text-center\">
+            <h4>Découvrir les transmissions et la ToIP</h4>
+            <div class=\"progress-container\">
+            </div>
+            <p class=\"mt-2\"><strong>Apprentissages critiques :</strong></p>
+            <!-- Barres de progression pour chaque apprentissage critique -->
+            <ul class=\"text-left\">
+                <li>
+                    <span>Mesurer et analyser les signaux (audio et vidéo, ordres de grandeurs, comprendre la dualité temps/fréquence et utiliser des équipements d’analyse spectrale, avec projets autour de la chaîne d’acquisition/traitement)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 0%; height: 15px;\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\">0%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Caractériser des systèmes de transmissions élémentaires et découvrir la modélisation mathématique de leur fonctionnement</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 0%; height: 15px;\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\">0%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Déployer des supports de transmission (traitement au choix de la propagation, câblage LAN, fibre optique, ou une introduction à l’IoT)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Connecter les systèmes de ToIP (s’interprétant ici comme la possibilité de se connecter au réseau téléphonique)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 0%; height: 15px;\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\">0%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Communiquer avec un client ou un collaborateur</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 75%; height: 15px;\" aria-valuenow=\"75\" aria-valuemin=\"0\" aria-valuemax=\"100\">75%</div>
+                    </div>
+                </li>
+                <!-- Ajoutez d'autres barres de progression au besoin -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- Partie 3: S’intégrer dans un service informatique -->
+    <div class=\"container d-flex align-items-center justify-content-center\">
+        <div class=\"mb-4 text-center\">
+            <h4>S’intégrer dans un service informatique</h4>
+            <div class=\"progress-container\">
+            </div>
+            <p class=\"mt-2\"><strong>Apprentissages critiques :</strong></p>
+            <!-- Barres de progression pour chaque apprentissage critique -->
+            <ul class=\"text-left\">
+                <li>
+                    <span>Utiliser un système informatique et ses outils (intro système, fichiers, CLI, zips, outils collaboratifs sur Internet, hygiène informatique. . . : référentiel PIX et CyberEdu)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Lire, exécuter, corriger et modifier un programme (programmes simples type scripts, algorithme inclus)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Traduire un algorithme, dans un langage et pour un environnement donné (peut inclure plusieurs, y compris objet)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Connaître l’architecture et les technologies d’un site Web (Langages et outils : HTML, CSS, CMS, JS, responsive)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 100%; height: 15px;\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\">100%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>Choisir les mécanismes de gestion de données adaptés au développement de l’outil (BDD, SQL, LDAP, JSON, sérialisation, conception de BDD simple. . .)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 50%; height: 15px;\" aria-valuenow=\"50\" aria-valuemin=\"0\" aria-valuemax=\"100\">50%</div>
+                    </div>
+                </li>
+                <li>
+                    <span>S’intégrer dans un environnement propice au développement et au travail collaboratif (intro méthodes agiles)</span>
+                    <div class=\"progress\" style=\"border: 1px solid #ccc; border-radius: 5px; margin: 5px;\">
+                        <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 70%; height: 15px;\" aria-valuenow=\"70\" aria-valuemin=\"0\" aria-valuemax=\"100\">70%</div>
+                    </div>
+                </li>
+                <!-- Ajoutez d'autres barres de progression au besoin -->
+            </ul>
+        </div>
+    </div>
 
 <!--Waves Container-->
 <div>
